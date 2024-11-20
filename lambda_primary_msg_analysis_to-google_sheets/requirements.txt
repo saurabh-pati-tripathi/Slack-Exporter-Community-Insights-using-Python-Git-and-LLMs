@@ -1,0 +1,6 @@
+boto3
+pytz
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-api-core
